@@ -1,6 +1,6 @@
 # My websites:
-https://funstudios.github.io/Index/ - main info & contact
+<a href="https://funstudios.github.io/Index/">main info & contact</a> 
 <br>
-https://funstudios.github.io/games/ - all of my main games!
+<a href="https://funstudios.github.io/games/">All of my main games!</a> 
 <br> <br>
 That is all!
